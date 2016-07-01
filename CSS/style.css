@@ -1,0 +1,19 @@
+.heading{
+	background-color: #D3D8DE;
+	text-align: center;
+	height: 100px;
+	width: 750px;
+	font-size: 50px;
+	margin-top: 20px;
+	font-family: impact;
+	color: #323237;
+}
+
+.button-1{
+	background-color: #D3D8DE;
+	text-align: center;
+	height: 75px;
+	width: 250px;
+	margin-top: 300px;
+	padding-top: 37.5px;
+}
