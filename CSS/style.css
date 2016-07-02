@@ -2,7 +2,6 @@
 	background-color: #D3D8DE;
 	text-align: center;
 	height: 100px;
-	width: 750px;
 	font-size: 50px;
 	margin-top: 20px;
 	font-family: impact;
@@ -13,7 +12,68 @@
 	background-color: #D3D8DE;
 	text-align: center;
 	height: 75px;
-	width: 250px;
-	margin-top: 300px;
-	padding-top: 37.5px;
+	margin-top: 225px;
+	padding-top: 20px;
+	border-radius: 45%;
 }
+
+.linkStyles{
+	text-align: center;
+	font-family: impact;
+	color: #323237;
+	font-size: 20px;
+	text-decoration: none;
+}
+.linkStyles:hover{
+	text-decoration: none;
+	color: white;
+}
+
+.THEMOUSE{
+	padding-top: 100px;
+	padding-left: 7px;
+}
+
+.hoverStyles{
+	background-color: darkgray;
+	text-align: center;
+	height: 75px;
+	margin-top: 225px;
+	padding-top: 20px;
+	border-radius: 45%;
+}
+
+#clicky{
+	border: groove;
+	border-color: #D3D8DE;
+	color: #323237;
+	margin-top: 20px;
+	border-width: 20px;
+	font-family: impact;
+	color: black;
+	font-size: 30px;
+}
+
+#click{
+	border: groove;
+	border-color: #D3D8DE;
+	color: #323237;
+	margin-top: 20px;
+	border-width: 20px;
+	font-family: impact;
+	color: black;
+	font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
