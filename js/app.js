@@ -14,7 +14,7 @@ function initiateProgram(){
 	clickerLink.addEventListener('click', handleClick);
 
 	function handleClick(evt){
-  		console.log(evt.target.id);
+  		console.log(evt.target.id + " clicked me, Yay!");
 	}
 
 	//hoverVanTransform
