@@ -6,6 +6,9 @@
 	margin-top: 20px;
 	font-family: impact;
 	color: #323237;
+	border: ridge;
+	border-width: 10px;
+	border-color: #323237;
 }
 
 .button-1{
@@ -15,6 +18,9 @@
 	margin-top: 225px;
 	padding-top: 20px;
 	border-radius: 45%;
+	border: ridge;
+	border-width: 5px;
+	border-color: #323237;
 }
 
 .linkStyles{
@@ -31,6 +37,9 @@
 
 .THEMOUSE{
 	padding-top: 75px;
+	border: ridge;
+	border-width: 5px;
+	border-color: #323237;
 }
 
 .hoverStyles{
